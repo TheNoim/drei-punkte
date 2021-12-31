@@ -1,3 +1,6 @@
 bin
 Main.jar
 *.jar
+*.class
+*.bin
+*.lock

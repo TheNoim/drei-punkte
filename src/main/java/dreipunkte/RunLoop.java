@@ -1,9 +1,9 @@
 package dreipunkte;
 
 public interface RunLoop {
-    public void setup();
+    void setup();
 
-    public void runLoop();
+    void runLoop();
 
-    public void shutdown();
+    void shutdown();
 }
