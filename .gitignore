@@ -4,3 +4,5 @@ Main.jar
 *.class
 *.bin
 *.lock
+.gradle
+build
